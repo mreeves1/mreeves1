@@ -1,7 +1,7 @@
 :wave: Hi, I’m Mike Reeves, a former Mechanical Engineer, turned full stack web dev finally landing on the DevOps/SRE/Platform Engineer specialty.  
-I :heart: IAC (Infrastructure as Code), the :cloud:(aka other peoples' computers and the full stack from Linux :arrow_right: CDNs and all the interesting stuff in between. 
+I :heart: IAC (Infrastructure as Code), the :cloud:(aka other peoples' computers) and the full stack from Linux :arrow_right: CDNs and all the interesting stuff in between. 
 
-:telescope: I’m searching for a new position as a DevOps Architect / Principal / Staff / Lead / Manager(if w/ a heavy IC aspect).   
+:telescope: I’m searching for a new position as a DevOps Architect / Principal / Staff / Lead / Manager (if w/ a heavy IC aspect).   
 See my [LinkedIn profile](https://www.linkedin.com/in/runamok/) and my [pc-mreeves Github account](https://github.com/pc-mreeves) 
 which reflects some of my contributions at [Personal Capital](https://www.personalcapital.com/company) which I left after 6 years and several promotions.  
 
@@ -39,7 +39,7 @@ which reflects some of my contributions at [Personal Capital](https://www.person
   - Create TF to create and manage a kubernetes cluster in Digital Ocean and migrate a few tiny projects to k8s vs. VMs there.
 - :bulb: My brilliant startup idea is a running (and perhaps later cycling) club website.  
   I have been in running clubs for many years and their websites are always cobbled together with wix, squarespace, meetup, instagram, 
-  facebook groups, mailing lists, paypal, venmo, spit, baling wire, :duct tape, etc.  
+  facebook groups, mailing lists, paypal, venmo, spit, baling wire, duct tape, etc.  
   I'd like it to have the following features:
   - Membership and dues management
   - Event management
