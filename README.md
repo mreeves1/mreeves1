@@ -1,55 +1,47 @@
-:wave: Hi, I’m Mike Reeves, a former Mechanical Engineer, turned full stack web dev finally landing on the DevOps/SRE/Platform Engineer specialty.  
-I :heart: IAC (Infrastructure as Code), the :cloud:(aka other peoples' computers) and the full stack from Linux :arrow_right: CDNs and all the interesting stuff in between. 
+# Mike Reeves
 
-:telescope: I’m searching for a new position as a DevOps Architect / Principal / Staff / Lead / Manager (if w/ a heavy IC aspect).   
-See my [LinkedIn profile](https://www.linkedin.com/in/runamok/) and my [pc-mreeves Github account](https://github.com/pc-mreeves) 
+## Introduction
+
+:wave: Hi, I’m Mike Reeves, a former Mechanical Eng., turned full stack web dev finally landing on the DevOps/SRE/Platform Engineer specialty. General SWE experience of 20+ years and Cloud Infra/Devops of 12+ years.   
+I :heart: **IAC (Infrastructure as Code)**, the :cloud:(aka other peoples' computers) and the full stack from Linux :arrow_right: CDNs and all the interesting stuff in between. 
+
+:telescope: **I’m searching for a new position as a DevOps Architect / Principal / Staff / Lead / Manager (if w/ a heavy IC aspect)**.   
+See my [LinkedIn profile](https://www.linkedin.com/in/runamok/), [my resume (updated 11/2022)](/files/Michael_Reeves_Resume_2022-11_v0.pdf) and my [pc-mreeves Github account](https://github.com/pc-mreeves) 
 which reflects some of my contributions at [Personal Capital](https://www.personalcapital.com/company) which I left after 6 years and several promotions.  
 
+## What I'm Up To
+
 - :eyes: I’m interested in:
-  - [Ansible]([https://aws.amazon.com/](https://www.ansible.com/))
-  - [AWS](https://aws.amazon.com/)
-  - Cooking
-  - Cycling
-  - [DevOps](https://en.wikipedia.org/wiki/DevOps) and IAC (Infrastructure as Code)
-  - Hacking & Making
-  - Observability
-  - [Python](https://www.python.org/) (as well as Bash, Ruby and PHP)
-  - Reading
-  - Running
-  - Snowboarding
-  - [Terraform](https://www.terraform.io/)
-  - Travel
-- :seedling: I’m currently deepening my knowledge of python, terraform, kubernetes, etc.  
-- :book: I’m currently reading a few different books on k8s, python, etc.  
-  TODO: add 'em.
-- :snowman: Some projects I want to do/ am doing:
-  - Homelab kubernetes cluster with a few Raspberry Pis provisioned and orchestrated with some or all of the following:
-    - Ansible
-    - [ArgoCD](https://argoproj.github.io/cd/)
-    - [Rancher](https://www.rancher.com/)
-    - ???
-  - [Hugo](https://gohugo.io/) based static markdown file based blog on various geeky and personal topics served by the 
-    [Digital Ocean App Platform](https://docs.digitalocean.com/products/app-platform/).  
-    See [Current POC placeholder at runthing.com](https://runthing.com/)
-  - Bring [GrandPrix.run](https://grandprix.run/) back from the :skull_and_crossbones: and get a [POC working](https://github.com/mreeves1/grandprix.run) 
-    to rebuld my fullstack web dev 💪
-  - Create a few IAC repos to practice my terraform and [Cloudformation](https://aws.amazon.com/cloudformation/) and possibly learn [Pulumi](https://www.pulumi.com/) and [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
-    and have a bit of proof I know what I am doing.  
-    In particular I want to easily bring up a vpc + eks cluster with managed nodes to play around with in AWS.
-  - Create TF to create and manage a kubernetes cluster in Digital Ocean and migrate a few tiny projects to k8s vs. VMs there.
-- :bulb: My brilliant startup idea is a running (and perhaps later cycling) club website.  
-  I have been in running clubs for many years and their websites are always cobbled together with wix, squarespace, meetup, instagram, 
-  facebook groups, mailing lists, paypal, venmo, spit, baling wire, duct tape, etc.  
-  I'd like it to have the following features:
-  - Membership and dues management
-  - Event management
-  - Merge my grandprix.run POC above
-  - Possibly a way to find running partners, etc. within a club
-  - Mailing list and Socials management (e.g. add an event and send an emal, insta post, facebook group post, etc.)
-  - Possibly a way to share and display photos
-  - A rudmentary forum?
-  - A way to share good commercial resources like doctors, running stores, physical therapists, etc? 
+  - **Devops/SRE/Cloud**
+    [AWS](https://aws.amazon.com/), [DevOps](https://en.wikipedia.org/wiki/DevOps) and IAC (Infrastructure as Code), [Ansible]([https://aws.amazon.com/](https://www.ansible.com/)), [Terraform](https://www.terraform.io/) & Observability
+  - **Software Eng./Programming**
+    - [Python](https://www.python.org/) (as well as Bash, Ruby and PHP)
+    - TODO: flesh this out better
+  - **Sports**
+    - Cycling
+    - Running (my passion since I was 15)  
+      [My Strava profile](https://www.strava.com/athletes/4131127) & [My Athlinks results](https://www.athlinks.com/athletes/71510316/results)
+    - Snowboarding
+  - **Misc**
+    - Cooking, Hacking & Making, Reading & Travel
+- :seedling: I’m currently deepening my knowledge of python, terraform, kubernetes, etc.
+- :snowman: [Projects I am doing or wish to do](/PROJECTS.md)
+- :bulb: [Big ideas](/BIG_IDEAS.md)
 - :mailbox: How to reach me
   - [LinkedIn](https://www.linkedin.com/in/runamok/)
   - mike.reeves @ "the google email provider"
   - My INCREDIBLY stale personal website at [runamok.net](http://runamok.net/). Pretty sure the contact form is :skull_and_crossbones: though.
+- :book: I love to read. I try to divide my time between tech, entrepreneur/biz and fun (my guilty pleasure is sci-fi)
+  - Reading:
+    - 2023 Current or in Queue
+      - [Python Tricks The Book](https://www.amazon.com/gp/product/B0785Q7GSY/) - lots of interesting python minutiae and good practices
+      - [Kubernetes Up and Running 2nd edition](https://www.amazon.com/Kubernetes-Up-Running-Brendan-Burns-ebook/dp/B0B8G22T5L) - Most of this is a review but wanted to fill in any gaps since most of my knowledge is AWS-centric and self-taught. I should perhaps pick up the 3rd edition though reviews are mixed. 
+      - [How the World Really Works](https://www.amazon.com/How-World-Really-Works-Science-ebook/dp/B09CDB69WT)
+    - 2023 Done:
+    - [97 Things Every SRE Should Know](https://www.amazon.com/Things-Every-SRE-Should-Know/dp/1492081493/) - A collection of essays on SRE-isms. Some are great, some are meh and some I disagree with. TODO: Add notes to [/BOOKS.md](/BOOKS.md#97_things_sre)
+    - Past Notable Done:
+      - [How I Built This by Guy Raz](https://www.amazon.com/How-Built-This-Unexpected-Entrepreneurs-ebook/dp/B081TTXD8F/ref=sr_1_1) - Fantastic book about the trials and tribulations of entrepreneurship.
+
+## Random Images
+
+![2023 San Diego Resolution Run (10K)](/images/2023-sd-resolution-run.jpg "2023 San Diego Resolution Run (10K)")
